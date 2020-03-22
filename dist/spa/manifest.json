@@ -4,7 +4,7 @@
 	"theme_color": "#FFFFFF",
 	"background_color": "#FFFFFF",
 	"display": "standalone",
-	"star_url": "/",
+	"star_url": "https://coronacovid.herokuapp.com/#/",
 	"icons": [
 		{
 		"src": "statics/app-logo-128x128.png",
