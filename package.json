@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "dev": "",
+    "start": "node index"
+},
   "dependencies": {
     "express": "^4.17.1",
     "serve-static": "^1.14.1"
